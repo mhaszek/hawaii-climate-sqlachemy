@@ -121,3 +121,8 @@ To run the example locally run the `climate_starter.ipynb` file in Jupyter Noteb
  * Matplotlib
  * SQLAlchemy  
  * PostgreSQL
+
+
+#
+
+#### Contact: mil.haszek@gmail.com
